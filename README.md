@@ -1,18 +1,25 @@
-## Getting Started
+# Ejercicio 1 ☕🚀
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+¡Bienvenido a mi primer proyecto de práctica con **Java**!
 
-## Folder Structure
+Este repositorio forma parte de mi proceso de aprendizaje en programación. Aquí iré documentando mis avances, poniendo en práctica lo que aprendo y desarrollando poco a poco mis habilidades como programador.
 
-The workspace contains two folders by default, where:
+## 🎯 Objetivo del proyecto
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+La idea es utilizar este repositorio como un registro de mi progreso. Cada *commit* representará un avance, un ejercicio o una mejora realizada durante mis días de práctica.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Sé que el camino no será rápido y que todavía tengo mucho por aprender, pero mi objetivo es avanzar lento, pero constante (o al menos eso espero 😅).
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 📈 Mi progreso
 
-## Dependency Management
+A medida que adquiera nuevos conocimientos sobre Java, los iré aplicando en mis ejercicios y proyectos.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+No espero que el código sea perfecto desde el principio. Lo importante es aprender de los errores, encontrar soluciones y seguir mejorando día a día.
+
+## 💻 Mi meta
+
+Mi objetivo es fortalecer mis bases de programación con Java y adquirir las habilidades necesarias para convertirme en **desarrollador junior**.
+
+Este es apenas el comienzo de mi camino. Espero llegar lejos, aprender mucho y, algún día, mirar atrás y ver cuánto he avanzado desde este primer proyecto.
+
+**Un paso a la vez, un commit a la vez.** ☕
