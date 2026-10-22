@@ -5,7 +5,7 @@ public class App {
     public static void main(String[] args) throws Exception {
 
         System.out.println("Hola, nuevamente yo, haciendo pruebas creo que de una calculadora!");
-
+        /*
         // Variables de números
         int numero1 = 10;
         float numero2 = 20.12345678910111213f;
@@ -41,7 +41,7 @@ public class App {
         System.out.println("Incremento de numero: " + numeropersona1);
 
         // Calculadora de compra
-        /*
+        
         final double TASA_IMPUESTO = 0.15;
         Scanner scanner = new Scanner(System.in);
 
